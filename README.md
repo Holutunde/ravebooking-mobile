@@ -1,11 +1,16 @@
-# Ravebooking Mobile
+# Mobile CV Application
 
-A mobile application that prominently features your Slack identity, incorporates your Slack profile picture, and includes an “Open GitHub” button. When pressed, this button should utilize a WebView component to redirect users to your GitHub profile within the application itself.
+## Overview
+
+The Mobile CV Application is a React Native-based mobile application that serves as a comprehensive CV (Curriculum Vitae) to showcase personal and professional details. It provides the ability to view and edit CV information. The application includes the following features:
+
+- Display of personal information, including name, Slack username, GitHub handle, a brief personal bio, contact phone, email, and the track you're following.
+- A home/first page for viewing the CV information in a clean and organized manner.
+- Editing capability to modify the existing CV data.
+- Real-time updates that immediately reflect any changes made to the CV details without manual refresh.
 
 
-You can view a live demo of this project on [Appetize.io](https://appetize.io/).
-
-- **Demo Link**: [Link to Demo](https://appetize.io/app/zmvz7kt3szeq7c2hw5orvso5zu?device=pixel4&osVersion=11.0&scale=75)
+- **Demo Link**: [Link to Demo](https://appetize.io/app/f2izesleegqj57crmprxqqboci?device=pixel4&osVersion=11.0&scale=75)
 
 
 ## Getting Started
