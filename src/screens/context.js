@@ -7,6 +7,7 @@ const ContextProvider = ({ children }) => {
     track: "Mobile Track",
     name: "Olutunde Sokunbi",
     username: "Samiel",
+    phone: "08165484078",
     email: "olutundesokunbi@gmail.com",
     bio: "A backend developer",
     githubUrl: "https://github.com/Holutunde",
